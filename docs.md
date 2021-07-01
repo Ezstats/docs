@@ -53,7 +53,7 @@
                         <p>And initialize it with:</p>
 <pre class=" language-javascript"><code class="prism  language-javascript">ezstats<span class="token punctuation">.</span><span class="token function">initialize</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
 </code></pre>
-                        <p>And boom! you now have EZstats running in your application. If you encounter any errors or problems email us at <abbr title="Email us at support@ezstats.app"><a style="cursor: help;" href="mailto:support@ezstats.app">support@ezstats.app</a></abbr> or send a message <a href="/home/support" title="Email us here!">here</a>. The specific lines of code is explained in comments in the ezstats files.</p>
+                        <p>And boom! you now have EZstats running in your application. If you encounter any errors or problems email us at <abbr title="Email us at support@ezstats.app"><a style="cursor: help;" href="mailto:support@ezstats.app">support@ezstats.app</a></abbr> or send a message <a href="https://account.ezstats.app/home/support" title="Email us here!">here</a>. The specific lines of code is explained in comments in the ezstats files.</p>
                         <blockquote>
                             <p>⚠  Never modify the module without knowing what you are doing. As I mentioned this above we are not responsible for your mess up’s</p>
                         </blockquote>
