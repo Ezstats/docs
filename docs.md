@@ -2,7 +2,7 @@
                         <p>So your a developer, who wants user data and see the usage of the app. Well then this is perfect for you! Continue below to install the library.</p>
                         <h1 id="installing">Installing</h1>
                         <p>
-                            To get started, click this <a href="~/home/library">link</a> to install the library.
+                            To get started, click this <a href="https://account.ezstats.app/home/library">link</a> to install the library.
                             Follow the tutorial below to integrate this to your applications
                         </p>
                         <h1 id="integration">Integration</h1>
